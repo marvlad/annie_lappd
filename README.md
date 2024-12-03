@@ -8,7 +8,7 @@ You can install the package using pip:
 
 ```bash
 pip install annie_lappd
-
+```
 
 ## Examples:
 
@@ -31,3 +31,4 @@ lappd.baselineCorrection(50)
 lappd.filterFFT
 
 lappd.displayEvent(4, 1, 1)
+```
