@@ -9,7 +9,9 @@ You can install the package using pip:
 ```bash
 pip install annie_lappd
 
-Examples:
+
+## Examples:
+
 ```bash
 from plotlappd import plotLAPPD
 
