@@ -1,4 +1,4 @@
-from lappd import LAPPD
+from .lappd import LAPPD
 import matplotlib.pyplot as plt
 
 class plotLAPPD(LAPPD):
