@@ -13,7 +13,7 @@ pip install annie_lappd
 ## Examples:
 
 ```bash
-from plotlappd import plotLAPPD
+from annie_lappd import plotLAPPD
 
 events = 2
 data = 'datafile.txt'
